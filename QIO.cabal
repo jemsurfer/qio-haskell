@@ -1,6 +1,6 @@
 Name:			QIO
 Version:		1.3
-Cabal-Version:		>= 1.24
+Cabal-Version: 1.24
 License:		BSD3
 License-File:		LICENSE
 Author:			Alexander S. Green
@@ -19,4 +19,5 @@ Library
   Exposed-modules:
     QIO.Heap, QIO.QArith, QIO.QExamples, QIO.QIORandom, QIO.Qdata, QIO.Qft,
     QIO.Qio, QIO.QioClass, QIO.QioSyn, QIO.QioSynAlt, QIO.Shor, QIO.Vec, QIO.VecEq
+
 
